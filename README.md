@@ -18,6 +18,7 @@ cd SingleInput_js
 Computing the witness with WebAssembly
 ```
 node generate_witness.js SingleInput.wasm ../input.json ../witness.wtns
+cd ..
 ```
 
 
